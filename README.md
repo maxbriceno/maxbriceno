@@ -40,8 +40,8 @@ Django...
 2. Angular
 3. ... to be continued ...
 
-## Projects
+## Flutter Projects
 
 ### Rolldice App
 
-- ![Simple App for rolling a dice](maxbriceno/rolldice_app.gif)
+- ![Simple App for rolling a dice](/rolldice_app.gif)
