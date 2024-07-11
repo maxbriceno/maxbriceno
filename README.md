@@ -46,5 +46,5 @@ Django...
 
 <p>
   <img src="rolldice_app.gif" alt="Simple App for rolling a dice" width="200" >
-  <img src="rolldice_app.gif" alt="Simple App for rolling a dice" width="180" >
+  <img src="rolldice_app.gif" alt="Simple App for rolling a dice" width="200" >
 </p>
