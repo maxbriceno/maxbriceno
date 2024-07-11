@@ -44,4 +44,4 @@ Django...
 
 ### Rolldice App
 
-- <img src="rolldice_app.gif" alt="Simple App for rolling a dice" width="90" height="160">
+<img src="rolldice_app.gif" alt="Simple App for rolling a dice" width="180" height="320">
