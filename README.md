@@ -44,4 +44,4 @@ Django...
 
 ### Rolldice App
 
-- ![Simple App for rolling a dice](/rolldice_app.gif)
+- ![Simple App for rolling a dice](/rolldice_app.gif=30*40)
