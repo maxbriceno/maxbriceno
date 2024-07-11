@@ -45,3 +45,14 @@ Django...
 ### Rolldice App
 
 <img src="rolldice_app.gif" alt="Simple App for rolling a dice" width="180" height="320">
+<img src="rolldice_app.gif" alt="Simple App for rolling a dice" width="180" height="320">
+<div style="display: flex; align-items: center;">
+    <div style="width: 50%; text-align: center;">
+        <p>Prima GIF</p>
+        <img src="rolldice_app.gif" alt="Prima GIF" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 50%; text-align: center;">
+        <p>Seconda GIF</p>
+        <img src="rolldice_app.gif" alt="Seconda GIF" style="width: 100%; height: auto;">
+    </div>
+</div>
